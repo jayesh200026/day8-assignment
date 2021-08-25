@@ -26,6 +26,11 @@ public class Main {
 		//OddOrEven.oddOreven();
 		//VowelOrConsonant.vowelOrConsonant();
 		//LargestOf3Numbers.largestOf3Numbers();
+		//Distance.euclidianDistance(args);
+		//Roots.quadraticRoots();
+		//TwoDArray.twodarry();
+		//WindChill.windChill(args);
+		//ZeroSum.triplets();
 
 	}
 
