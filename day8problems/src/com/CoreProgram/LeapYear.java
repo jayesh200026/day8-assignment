@@ -13,7 +13,7 @@ public class LeapYear {
 	
 	year=r.nextInt();
 	
-	if(year <=999 && year>9999)
+	if(year <=999 || year>9999)
 	{
 		System.out.println("Invalid input");
 		//System.exit(0);
